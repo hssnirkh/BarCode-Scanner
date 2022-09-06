@@ -1,5 +1,4 @@
 import qrcode
-import cv2
 import numpy as np
 
 file = input("pls enter name of image: ")
